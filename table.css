@@ -1,0 +1,33 @@
+body {
+    margin: 10%;
+}
+table {
+    border: 2px;
+    border-top-left-radius: 8px;
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    border: 1px;
+    border-collapse: collapse;
+    text-align: left;
+    color: white;
+    padding: 15px;
+    background-color: rgba(28, 0, 210, 0.548);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.td1 {
+    border: 1px;
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.td2 {
+    border: 1px;
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: rgba(237, 223, 255, 0.488);
+    font-family: Arial, Helvetica, sans-serif;
+}
