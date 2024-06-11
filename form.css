@@ -1,3 +1,14 @@
 body {
     margin: 25%;
+    background-color: rgb(59, 59, 59);
+}
+
+.input1 {
+    text-align: center;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
+.but1 {
+    text-align: center;
 }
